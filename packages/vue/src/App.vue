@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import './components/github-corners'
+import './github-corners'
 
 </script>
 
